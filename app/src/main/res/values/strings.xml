@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GiphyProto</string>
+    <string name="search_hint">Enter Search Keyword</string>
+</resources>
